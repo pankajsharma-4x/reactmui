@@ -13,7 +13,7 @@ const LatestNews = () => {
     display:'flex',
     flexDirection:'column',
     justifyContent:'center',
-    marginTop:{md:'0' , xs:'250px'}
+    marginTop:{md:'0' , xs:'15rem'}
     }}
     >
     <Box sx={{
