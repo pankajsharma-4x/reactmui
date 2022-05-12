@@ -47,7 +47,7 @@ const Highlights = () => {
     }}>
     <Button variant="contained" size="large"
           sx={{
-                    width:{md:'25%' , xs:'75%'},
+                    width:{md:'25%' , xs:'auto'},
                     border: '2px solid #3498db',
                     borderRadius: '50px',
                     color: '#3498db',
