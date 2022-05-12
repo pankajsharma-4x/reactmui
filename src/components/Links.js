@@ -27,7 +27,7 @@ const Links = () => {
   return (
     <Container maxWidth="lg" 
     sx={{
-      marginTop:{xs:'220px' , md:'0px'},
+      marginTop:{xs:'15rem' , md:'0px'},
     }}
     >
         <Grid container >
