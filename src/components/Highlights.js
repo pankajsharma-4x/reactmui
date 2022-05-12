@@ -35,7 +35,7 @@ const Highlights = () => {
       display:'flex' ,
       justifyContent:{md:'space-around' , xs:'center'},
       flexWrap:'wrap',
-      marginBottom:'40px'
+      // marginBottom:'40px'
       }}>
       <Carddata data= {data}/>
     </Box>
